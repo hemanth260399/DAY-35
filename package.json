@@ -1,0 +1,22 @@
+{
+  "name": "day-35",
+  "version": "1.0.0",
+  "description": "Student and mentor task",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "mangoose",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.6.1",
+    "uuid": "^10.0.0"
+  }
+}
