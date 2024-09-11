@@ -8,4 +8,14 @@
   <li>I have created patch call for mulutple student assign and mentor change opertion</li>
   <li>I have created the get call to get all student list for particular mentor and another one is pervious mento for particular student </li>
   <Li>I used cloud mongodb for database and i have used express router for sepreate the student and mentor </Li>
+  <li>
+    1.https://day-35-3cd5.onrender.com/student-Get call for all student
+    2.https://day-35-3cd5.onrender.com/student-Post call for student
+    3.https://day-35-3cd5.onrender.com/mentor-Get call for all mentor
+    4.https://day-35-3cd5.onrender.com/mentor-Post call for mentor
+    5.https://day-35-3cd5.onrender.com/mentor/addstudent/<mentor-name>-Patch call to add a multiple student for mentor
+    6.https://day-35-3cd5.onrender.com/student/changementor/<student-name>-Patch call to change or add the new mentor
+    7.https://day-35-3cd5.onrender.com/mentor/getstudentlist/<mentor-name>-get call to get all student list for particuar mentor
+    8.https://day-35-3cd5.onrender.com/student/studentprementor/<student-name>-get call to get previous mentor for paticularv student
+  </li>
 </ul>
